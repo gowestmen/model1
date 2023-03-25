@@ -408,8 +408,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":44,
          "firstgid":4100,
-         "source":"tilesets\/fond_ext.tsx"
+         "image":"tilesets\/testcampus_3d_imagesat.PNG",
+         "imageheight":854,
+         "imagewidth":1413,
+         "margin":0,
+         "name":"fond_ext",
+         "spacing":0,
+         "tilecount":1144,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
