@@ -483,8 +483,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":1,
          "firstgid":3652,
-         "source":"tilesets\/sigat.tsx"
+         "image":"tilesets\/Fichier 1.png",
+         "imageheight":30,
+         "imagewidth":32,
+         "margin":0,
+         "name":"sigat",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":30,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
