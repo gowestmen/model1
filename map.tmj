@@ -275,7 +275,6 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":24,
          "id":63,
-         "locked":true,
          "name":"icone tp",
          "opacity":1,
          "type":"tilelayer",
@@ -485,19 +484,6 @@
         {
          "columns":1,
          "firstgid":3652,
-         "image":"tilesets\/Fichier 1.png",
-         "imageheight":30,
-         "imagewidth":32,
-         "margin":0,
-         "name":"sigat",
-         "spacing":0,
-         "tilecount":1,
-         "tileheight":30,
-         "tilewidth":32
-        }, 
-        {
-         "columns":1,
-         "firstgid":3653,
          "image":"tilesets\/sigat_Plan de travail 1.png",
          "imageheight":34,
          "imagewidth":34,
