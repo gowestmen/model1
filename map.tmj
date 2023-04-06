@@ -494,6 +494,19 @@
          "tilecount":1,
          "tileheight":30,
          "tilewidth":32
+        }, 
+        {
+         "columns":1,
+         "firstgid":3653,
+         "image":"tilesets\/sigat_Plan de travail 1.png",
+         "imageheight":34,
+         "imagewidth":34,
+         "margin":0,
+         "name":"logo_ok",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
