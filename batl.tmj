@@ -417,7 +417,7 @@
          "name":"fond de plan",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":60,
          "x":0,
          "y":0
@@ -651,7 +651,7 @@
          "name":"d\u00e9cor + escalier",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":60,
          "x":0,
          "y":0
@@ -768,7 +768,7 @@
         {
          "columns":60,
          "firstgid":274,
-         "image":"1x\/Fichier 5.png",
+         "image":"tilesets\/Fichier 5.png",
          "imageheight":2127,
          "imagewidth":1934,
          "margin":0,
@@ -781,7 +781,7 @@
         {
          "columns":16,
          "firstgid":4234,
-         "image":"E:\/cours\/Atelier pro\/mod\u00e9lisation\/uni-rennes2D - Copie\/tilesets\/LimeZu_MI_Hospital.png",
+         "image":"tilesets\/LimeZu_MI_Hospital.png",
          "imageheight":3520,
          "imagewidth":512,
          "margin":0,
@@ -794,7 +794,7 @@
         {
          "columns":16,
          "firstgid":5994,
-         "image":"E:\/cours\/Atelier pro\/mod\u00e9lisation\/uni-rennes2D - Copie\/tilesets\/LimeZu_MI_Visibile_Upstairs_System.png",
+         "image":"tilesets\/LimeZu_MI_Visibile_Upstairs_System.png",
          "imageheight":864,
          "imagewidth":512,
          "margin":0,
@@ -807,7 +807,7 @@
         {
          "columns":76,
          "firstgid":6426,
-         "image":"E:\/cours\/Atelier pro\/mod\u00e9lisation\/uni-rennes2D - Copie\/tilesets\/LimeZu_MI_Room_Builder.png",
+         "image":"tilesets\/LimeZu_MI_Room_Builder.png",
          "imageheight":3488,
          "imagewidth":2432,
          "margin":0,
@@ -833,7 +833,7 @@
         {
          "columns":1,
          "firstgid":14722,
-         "image":"..\/..\/Documents\/GitHub\/model1\/tilesets\/Fichier 1.png",
+         "image":"tilesets\/Fichier 1.png",
          "imageheight":30,
          "imagewidth":32,
          "margin":0,
@@ -846,7 +846,7 @@
         {
          "columns":20,
          "firstgid":14723,
-         "image":"FondbatL.png",
+         "image":"tilesets\/FondbatL.png",
          "imageheight":717,
          "imagewidth":652,
          "margin":0,
@@ -859,7 +859,7 @@
         {
          "columns":20,
          "firstgid":15163,
-         "image":"FondbatL.png",
+         "image":"tilesets\/FondbatL.png",
          "imageheight":717,
          "imagewidth":652,
          "margin":0,
@@ -872,7 +872,7 @@
         {
          "columns":20,
          "firstgid":15603,
-         "image":"FondbatL.png",
+         "image":"tilesets\/FondbatL.png",
          "imageheight":717,
          "imagewidth":652,
          "margin":0,
@@ -885,7 +885,7 @@
         {
          "columns":20,
          "firstgid":16043,
-         "image":"FondbatL.png",
+         "image":"tilesets\/FondbatL.png",
          "imageheight":717,
          "imagewidth":652,
          "margin":0,
@@ -898,7 +898,7 @@
         {
          "columns":20,
          "firstgid":16483,
-         "image":"FondbatL.png",
+         "image":"tilesets\/FondbatL.png",
          "imageheight":717,
          "imagewidth":652,
          "margin":0,
