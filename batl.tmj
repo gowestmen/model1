@@ -492,7 +492,7 @@
          "height":66,
          "id":5,
          "locked":true,
-         "name":"Collision",
+         "name":"collisions",
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
