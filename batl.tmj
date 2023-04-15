@@ -337,6 +337,7 @@
                  "x":0,
                  "y":0
                 }],
+         "locked":true,
          "name":"sp\u00e9cial",
          "opacity":1,
          "type":"group",
