@@ -23874,13 +23874,6 @@
       "type": "tilelayer",
       "visible": true,
       "width": 60,
-      "properties": [
-        {
-          "name": "collides",
-          "type": "bool",
-          "value": true
-        }
-      ],
       "x": 0,
       "y": 0
     },
@@ -35820,7 +35813,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "batl-chunk-1-9fed377a.png",
+      "image": "batl-chunk-1-ce48500f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -35835,7 +35828,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "batl-chunk-2-9fed377a.png",
+      "image": "batl-chunk-2-ce48500f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -35850,7 +35843,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "batl-chunk-3-9fed377a.png",
+      "image": "batl-chunk-3-ce48500f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -35865,7 +35858,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "batl-chunk-4-9fed377a.png",
+      "image": "batl-chunk-4-ce48500f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -35880,7 +35873,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "batl-chunk-5-9fed377a.png",
+      "image": "batl-chunk-5-ce48500f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -35895,7 +35888,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "batl-chunk-6-9fed377a.png",
+      "image": "batl-chunk-6-ce48500f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -35910,7 +35903,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "batl-chunk-7-9fed377a.png",
+      "image": "batl-chunk-7-ce48500f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -35925,7 +35918,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "batl-chunk-8-9fed377a.png",
+      "image": "batl-chunk-8-ce48500f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -35940,7 +35933,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "batl-chunk-9-9fed377a.png",
+      "image": "batl-chunk-9-ce48500f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -35955,7 +35948,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "batl-chunk-10-9fed377a.png",
+      "image": "batl-chunk-10-ce48500f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -35970,7 +35963,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "batl-chunk-11-9fed377a.png",
+      "image": "batl-chunk-11-ce48500f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -35985,7 +35978,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "batl-chunk-12-9fed377a.png",
+      "image": "batl-chunk-12-ce48500f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -36000,7 +35993,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "batl-chunk-13-9fed377a.png",
+      "image": "batl-chunk-13-ce48500f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -36015,7 +36008,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "batl-chunk-14-9fed377a.png",
+      "image": "batl-chunk-14-ce48500f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -36030,7 +36023,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "batl-chunk-15-9fed377a.png",
+      "image": "batl-chunk-15-ce48500f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -36045,7 +36038,7 @@
     {
       "columns": 14,
       "firstgid": 3841,
-      "image": "batl-chunk-16-9fed377a.png",
+      "image": "batl-chunk-16-ce48500f.png",
       "imageheight": 448,
       "imagewidth": 448,
       "margin": 0,
@@ -36055,7 +36048,18 @@
       "tilecount": 170,
       "tileheight": 32,
       "tilewidth": 32,
-      "tiles": []
+      "tiles": [
+        {
+          "id": 121,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        }
+      ]
     }
   ],
   "type": "map",
