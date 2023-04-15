@@ -833,14 +833,14 @@
         {
          "columns":1,
          "firstgid":14722,
-         "image":"tilesets\/Fichier 1.png",
-         "imageheight":30,
-         "imagewidth":32,
+         "image":"tilesets\/sigat_Plan de travail 1.png",
+         "imageheight":34,
+         "imagewidth":34,
          "margin":0,
-         "name":"sigat",
+         "name":"logo_ok",
          "spacing":0,
          "tilecount":1,
-         "tileheight":30,
+         "tileheight":32,
          "tilewidth":32
         }, 
         {
