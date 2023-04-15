@@ -755,7 +755,7 @@
         {
          "columns":13,
          "firstgid":1,
-         "image":"E:\/cours\/Atelier pro\/mod\u00e9lisation\/uni-rennes2D - Copie\/tilesets\/WA_User_Interface.png",
+         "image":"tilesets\/WA_User_Interface.png",
          "imageheight":672,
          "imagewidth":416,
          "margin":0,
@@ -820,7 +820,7 @@
         {
          "columns":6,
          "firstgid":14710,
-         "image":"E:\/cours\/Atelier pro\/mod\u00e9lisation\/uni-rennes2D - Copie\/tilesets\/WA_Special_Zones.png",
+         "image":"tilesets\/WA_Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
