@@ -519,7 +519,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/drive.google.com\/file\/d\/1f59v6C7Ou4MuFL1ZHXVAwGF3fEZLiyWl\/view?usp=sharing"
+                         "value":"https:\/\/cdn.radiofrance.fr\/s3\/cruiser-production\/2019\/02\/8681a696-4c42-4f1e-a519-43643b94e6cd\/870x489_maxnewsworldtwo320741.jpg"
                         }],
                  "type":"tilelayer",
                  "visible":true,
