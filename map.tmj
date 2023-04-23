@@ -519,7 +519,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/cdn.radiofrance.fr\/s3\/cruiser-production\/2019\/02\/8681a696-4c42-4f1e-a519-43643b94e6cd\/870x489_maxnewsworldtwo320741.jpg"
+                         "value":"https:\/\/view.genial.ly\/644534d7edcf4e0018d8d086\/interactive-image-image-interactive"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -606,7 +606,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/drive.google.com\/file\/d\/1ZsjZEviwelC-73mLGjQTIarPf-43N4zn\/view?usp=sharing"
+                         "value":"https:\/\/view.genial.ly\/6445353679b2de0012a5f545\/interactive-content-genially-sans-titre"
                         }],
                  "type":"tilelayer",
                  "visible":true,
