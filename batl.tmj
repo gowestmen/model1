@@ -14112,7 +14112,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "batl2.tmj#from-batl"
+              "value": "batl2.tmj#from-batl_1"
             }
           ],
           "x": 0,
@@ -127027,7 +127027,7 @@
     {
       "columns": 12,
       "firstgid": 1,
-      "image": "batl-chunk-1-bafd7525.png",
+      "image": "batl-chunk-1-3fe7c8c7.png",
       "imageheight": 384,
       "imagewidth": 384,
       "margin": 0,
