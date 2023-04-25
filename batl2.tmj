@@ -1168,7 +1168,7 @@
         {
          "columns":25,
          "firstgid":2193,
-         "image":"E:\/cours\/Atelier pro\/mod\u00e9lisation\/TiledBatL\/WA_Exterior.png",
+         "image":"tilesets\/WA_Exterior.png",
          "imageheight":1088,
          "imagewidth":800,
          "margin":0,
