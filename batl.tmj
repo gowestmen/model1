@@ -127025,17 +127025,17 @@
       "name": "zones jitsi",
       "objects": [
         {
-          "id": 3,
-          "name": "zone1",
+          "id": 4,
+          "name": "zone",
           "visible": true,
-          "x": 835.789325873139,
-          "y": 2659.01126821833,
-          "height": 213.981489217992,
+          "x": 837,
+          "y": 2468,
+          "height": 184,
           "properties": [
             {
               "name": "jitsiRoom",
               "type": "string",
-              "value": "zone1"
+              "value": "zone"
             },
             {
               "name": "jitsiRoomAdminTag",
@@ -127043,9 +127043,9 @@
               "value": "admin"
             }
           ],
-          "rotation": 270.511980473847,
+          "rotation": 0,
           "class": "area",
-          "width": 193.226326467735
+          "width": 211
         }
       ],
       "opacity": 1,
@@ -134115,7 +134115,7 @@
     {
       "columns": 13,
       "firstgid": 1,
-      "image": "batl-chunk-1-947334b5.png",
+      "image": "batl-chunk-1-e58d26d9.png",
       "imageheight": 416,
       "imagewidth": 416,
       "margin": 0,
@@ -134133,7 +134133,7 @@
   "height": 88,
   "infinite": false,
   "nextlayerid": 26,
-  "nextobjectid": 4,
+  "nextobjectid": 5,
   "orientation": "orthogonal",
   "renderorder": "right-down",
   "tileheight": 32,
