@@ -1858,25 +1858,25 @@
          "objects":[
                 {
                  "class":"area",
-                 "height":213.981489217992,
-                 "id":3,
-                 "name":"zone1",
+                 "height":184,
+                 "id":4,
+                 "name":"zone",
                  "properties":[
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"zone1"
+                         "value":"zone"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
                          "value":"admin"
                         }],
-                 "rotation":270.511980473847,
+                 "rotation":0,
                  "visible":true,
-                 "width":193.226326467735,
-                 "x":835.789325873139,
-                 "y":2659.01126821833
+                 "width":211,
+                 "x":837,
+                 "y":2468
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1984,7 +1984,7 @@
          "y":0
         }],
  "nextlayerid":26,
- "nextobjectid":4,
+ "nextobjectid":5,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.9.2",
