@@ -202,7 +202,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"batl2.tmj#from-batl"
+                         "value":"batl2.tmj#from-batl_1"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1843,6 +1843,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":88,
          "id":12,
+         "locked":true,
          "name":"meuble7",
          "opacity":1,
          "type":"tilelayer",
