@@ -1860,17 +1860,8 @@
  "tileheight":32,
  "tilesets":[
         {
-         "columns":16,
          "firstgid":1,
-         "image":"E:\/cours\/Atelier pro\/mod\u00e9lisation\/TiledBatL\/LimeZu_MI_Visibile_Upstairs_System.png",
-         "imageheight":864,
-         "imagewidth":512,
-         "margin":0,
-         "name":"LimeZu_MI_Visibile_Upstairs_System",
-         "spacing":0,
-         "tilecount":432,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"tilesets\/LimeZu_MI_Visible_Upstairs_System.tsx"
         }, 
         {
          "columns":80,
@@ -1886,17 +1877,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":16,
          "firstgid":7473,
-         "image":"E:\/cours\/Atelier pro\/mod\u00e9lisation\/TiledBatL\/LimeZu_MI_Hospital.png",
-         "imageheight":3520,
-         "imagewidth":512,
-         "margin":0,
-         "name":"LimeZu_MI_Hospital",
-         "spacing":0,
-         "tilecount":1760,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"tilesets\/LimeZu_MI_Hospital.tsx"
         }, 
         {
          "columns":25,
