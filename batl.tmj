@@ -18397,8 +18397,8 @@
             0,
             0,
             0,
-            3,
-            3,
+            4,
+            4,
             0,
             0,
             0,
@@ -21170,9 +21170,9 @@
           "width": 80,
           "properties": [
             {
-              "name": "exitUrl",
-              "type": "string",
-              "value": "batl.tmj#from-batl2_1"
+              "name": "startLayer",
+              "type": "bool",
+              "value": true
             }
           ],
           "x": 0,
@@ -127027,7 +127027,7 @@
     {
       "columns": 12,
       "firstgid": 1,
-      "image": "batl-chunk-1-abab1f13.png",
+      "image": "batl-chunk-1-91f6a9c1.png",
       "imageheight": 384,
       "imagewidth": 384,
       "margin": 0,
