@@ -10601,6 +10601,8 @@
             0,
             0,
             0,
+            2,
+            2,
             0,
             0,
             0,
@@ -10679,10 +10681,8 @@
             0,
             0,
             0,
-            0,
-            0,
-            0,
-            0,
+            2,
+            2,
             0,
             0,
             0,
@@ -22968,6 +22968,8 @@
             0,
             0,
             0,
+            3,
+            3,
             0,
             0,
             0,
@@ -25047,8 +25049,6 @@
             0,
             0,
             0,
-            2,
-            2,
             0,
             0,
             0,
@@ -28230,9 +28230,9 @@
           "width": 80,
           "properties": [
             {
-              "name": "exitUrl",
-              "type": "string",
-              "value": "batl2.tmj#from-batl_2"
+              "name": "startLayer",
+              "type": "bool",
+              "value": true
             }
           ],
           "x": 0,
@@ -77635,7 +77635,7 @@
     {
       "columns": 5,
       "firstgid": 1,
-      "image": "batl2-chunk-1-39659b82.png",
+      "image": "batl2-chunk-1-10a58f20.png",
       "imageheight": 160,
       "imagewidth": 160,
       "margin": 0,
