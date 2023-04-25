@@ -1857,7 +1857,7 @@
          "name":"zones jitsi",
          "objects":[
                 {
-                 "class":"",
+                 "class":"area",
                  "height":213.981489217992,
                  "id":3,
                  "name":"zone1",
