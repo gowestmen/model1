@@ -127044,7 +127044,7 @@
             }
           ],
           "rotation": 270.511980473847,
-          "class": "",
+          "class": "area",
           "width": 193.226326467735
         }
       ],
@@ -134115,7 +134115,7 @@
     {
       "columns": 13,
       "firstgid": 1,
-      "image": "batl-chunk-1-70812087.png",
+      "image": "batl-chunk-1-f9d25c9b.png",
       "imageheight": 416,
       "imagewidth": 416,
       "margin": 0,
