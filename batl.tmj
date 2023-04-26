@@ -660,7 +660,7 @@
         0,
         0,
         1,
-        2,
+        0,
         1,
         1,
         1,
@@ -740,7 +740,7 @@
         1,
         1,
         1,
-        2,
+        0,
         0,
         1,
         1,
@@ -1170,9 +1170,9 @@
         0,
         1,
         1,
-        2,
         0,
         0,
+        0,
         1,
         1,
         1,
@@ -1248,9 +1248,9 @@
         1,
         1,
         1,
+        0,
         0,
         0,
-        2,
         1,
         1,
         1,
@@ -14106,7 +14106,7 @@
           "name": "to-batl2_1",
           "opacity": 1,
           "type": "tilelayer",
-          "visible": true,
+          "visible": false,
           "width": 80,
           "properties": [
             {
@@ -21166,7 +21166,7 @@
           "name": "from-batl2_1",
           "opacity": 1,
           "type": "tilelayer",
-          "visible": true,
+          "visible": false,
           "width": 80,
           "properties": [
             {
@@ -28226,7 +28226,7 @@
           "name": "to-office",
           "opacity": 1,
           "type": "tilelayer",
-          "visible": true,
+          "visible": false,
           "width": 80,
           "properties": [
             {
@@ -35286,7 +35286,7 @@
           "name": "from-office-a1",
           "opacity": 1,
           "type": "tilelayer",
-          "visible": true,
+          "visible": false,
           "width": 80,
           "properties": [
             {
@@ -42346,7 +42346,7 @@
           "name": "from-office-a2",
           "opacity": 1,
           "type": "tilelayer",
-          "visible": true,
+          "visible": false,
           "width": 80,
           "properties": [
             {
@@ -49406,7 +49406,7 @@
           "name": "from-office-a3",
           "opacity": 1,
           "type": "tilelayer",
-          "visible": true,
+          "visible": false,
           "width": 80,
           "properties": [
             {
@@ -56466,7 +56466,7 @@
           "name": "from-office",
           "opacity": 1,
           "type": "tilelayer",
-          "visible": true,
+          "visible": false,
           "width": 80,
           "properties": [
             {
@@ -63526,7 +63526,7 @@
           "name": "to-conference",
           "opacity": 1,
           "type": "tilelayer",
-          "visible": true,
+          "visible": false,
           "width": 80,
           "properties": [
             {
@@ -70586,7 +70586,7 @@
           "name": "from-conference",
           "opacity": 1,
           "type": "tilelayer",
-          "visible": true,
+          "visible": false,
           "width": 80,
           "properties": [
             {
@@ -77646,7 +77646,7 @@
           "name": "to-batl2_2",
           "opacity": 1,
           "type": "tilelayer",
-          "visible": true,
+          "visible": false,
           "width": 80,
           "properties": [
             {
@@ -84706,7 +84706,7 @@
           "name": "from-batl2_2",
           "opacity": 1,
           "type": "tilelayer",
-          "visible": true,
+          "visible": false,
           "width": 80,
           "properties": [
             {
@@ -85384,7 +85384,7 @@
         0,
         0,
         7,
-        7,
+        2,
         5,
         6,
         6,
@@ -85464,7 +85464,7 @@
         5,
         5,
         5,
-        7,
+        2,
         9,
         5,
         6,
@@ -85894,9 +85894,9 @@
         8,
         5,
         5,
+        2,
         7,
         7,
-        7,
         5,
         6,
         6,
@@ -85974,7 +85974,7 @@
         5,
         9,
         9,
-        7,
+        2,
         5,
         5,
         6,
@@ -155295,7 +155295,7 @@
     {
       "columns": 13,
       "firstgid": 1,
-      "image": "batl-chunk-1-87d3213e.png",
+      "image": "batl-chunk-1-b4881d94.png",
       "imageheight": 416,
       "imagewidth": 416,
       "margin": 0,
@@ -155305,7 +155305,18 @@
       "tilecount": 151,
       "tileheight": 32,
       "tilewidth": 32,
-      "tiles": []
+      "tiles": [
+        {
+          "id": 0,
+          "properties": [
+            {
+              "name": "collides",
+              "type": "bool",
+              "value": true
+            }
+          ]
+        }
+      ]
     }
   ],
   "type": "map",
